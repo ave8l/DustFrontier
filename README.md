@@ -25,7 +25,7 @@ Herramienta gratuita recomendable para generar sprites, utilizado para la creaci
 ##POO
 ## DANIEL PROFUNDIZA MAS EN POO--------------------------------------------------------------------------------------------
 ## Organizacion de tareas
-## AÑADIR EL COMO SE USA EL HEAP Y COMO FUNCIONA LA PRIORIDAD POR CADA PERSONAJE ADALBERTO-----------------------------------
+## AÑADIR EL COMO SE USA EL HEAP Y COMO FUNCIONA LA PRIORIDAD DE LOS PERSONAJES ADALBERTO-----------------------------------
 ---
 ### MAPA GENERADO: 
 
