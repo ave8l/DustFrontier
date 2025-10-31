@@ -1,6 +1,6 @@
 # DustFrontier 🤠
 Juego de simulación creado en Python inspirado en Dwarf Fortress con caracteristicas del Salvaje Oeste. Creado con intencion de hacer uso de las estructuras de datos aprendidas y aplicadas durante la clase de Estructura de Datos y Algoritmos, aprovechando el acercamiento del juego con las similitudes al tema.
-## Proposito
+## Proposito 💻
 Funciona como recurso para la mejor comprension y aplicación del uso de estructuras de datos y algoritmos, la integracion de la Programacion Orientada a Objetos haciendo uso de polimorfismo, herencia entre otros recursos. Asi como la familiarizacion con librerias y rescursos nunca antes utilizados tales como pygame, como tambien el practicar el trabajo en equipo la asignacion de roles para cada miembro.
 Se hizo uso de:
 ### AGREGAR ESTRUCTURAS DE DATOS UTILIZADAS //ADALBERTO // PARA HACER LISTAS SE USA ESTE FORMATO:---------------------------------
