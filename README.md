@@ -26,9 +26,9 @@ En base al mapa generado, se hizo uso de colisiones con los objetos que luego se
 ### Pixilart 🖌️
 Herramienta gratuita recomendable para generar sprites, utilizado para la creacion inicial del mapa hasta cada uno de los sprites que aparecen en el videojuego.
 ### POO 🧱
-## DANIEL PROFUNDIZA MAS EN POO--------------------------------------------------------------------------------------------
-## Organizacion de tareas
-## AÑADIR EL COMO SE USA EL HEAP Y COMO FUNCIONA LA PRIORIDAD DE LOS PERSONAJES ADALBERTO-----------------------------------
+### DANIEL PROFUNDIZA MAS EN POO--------------------------------------------------------------------------------------------
+### Organizacion de tareas
+### AÑADIR EL COMO SE USA EL HEAP Y COMO FUNCIONA LA PRIORIDAD DE LOS PERSONAJES ADALBERTO-----------------------------------
 ---
 
 
