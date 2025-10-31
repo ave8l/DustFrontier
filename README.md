@@ -19,6 +19,17 @@ Para la creacion del mapa se hizo uso de la tecnica llamada "handcrafted procedu
   Mediante el uso de logica matematica por parametros como centros, radios, formulas etc... fueron diseñados manualmente sin la necesidad de la creacion de matrices.
 Se hace el uso de conceptos como radios para crear montañas oceanos y campos, mascaras elipticas para pantanos y campos, y por ultimo curvas creadas en base a la funcion seno.
 ### pygame
+Se hizo uso de la biblioteca de Python pygame diseñada para crear videojuegos 2D, es util para mostrar imagenes, figuras, texto y animaciones, detectar la interaccion con el usuario, controlar el tiempo y los fps, como tambien repoducir sonidos o música.
+## Pixilart
+Herramienta gratuita recomendable para generar sprites, utilizado para la creacion inicial del mapa hasta cada uno de los sprites que aparecen en el videojuego.
+##POO
+## DANIEL PROFUNDIZA MAS EN POO--------------------------------------------------------------------------------------------
+## Organizacion de tareas
+## AÑADIR EL COMO SE USA EL HEAP Y COMO FUNCIONA LA PRIORIDAD POR CADA PERSONAJE ADALBERTO-----------------------------------
+---
+### MAPA GENERADO: 
+
+
 
   
   
