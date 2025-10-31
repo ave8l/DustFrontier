@@ -94,6 +94,7 @@ Se usan curvas seno, radios y máscaras para generar montañas, pantanos, océan
 *(Insertar imagen del mapa aquí)*
 
 ---
+### HEAP Y COMO AFECTA A LOS PERSONAJES Y SUS TAREAS ADALBERTO-------------------------------------------------------------
 
 ### pygame 👾
 Se usa la biblioteca **pygame** para manejar:
